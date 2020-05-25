@@ -1,0 +1,17 @@
+.Loading{
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    border:4px solid #444;
+    border-left:4px solid #74b9ff;
+    margin: 50px auto;
+    animation:  animate 1s linear infinite;
+}
+@keyframes animate{
+0%{
+    transform: rotate(0deg);
+}
+100%{
+    transform: rotate(360deg);
+}
+}

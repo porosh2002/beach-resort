@@ -1,0 +1,113 @@
+* {
+    font-family: "Roboto";
+  }
+  .Navigation {
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    top: 0;
+    width:100%;
+    position: sticky;
+    background-color: #fff;
+    z-index:1;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+  }
+  .logo {
+    height: 60px;
+  }
+  .Logo_Bars {
+    margin: auto 50px;
+  }
+  .Nav_Links {
+    display: flex;
+    width: 400px;
+    justify-content: space-around;
+    margin: auto 120px auto 0px;
+  }
+  .links_txt {
+    text-decoration: none;
+    color: #29303b;
+    font-size: 17px;
+    letter-spacing: 1px;
+  }
+  .Home_Links,
+  .Rooms_Links {
+    padding-bottom: 5px;
+  }
+  .Home_Links:hover,
+  .Rooms_Links:hover {
+    border-bottom: 2px solid #29303b;
+  }
+  .Client_links {
+    padding: 12px;
+    background-color: #29303b;
+    border-radius: 4px;
+    color: #fff;
+  }
+  .Client_links:hover {
+    background-color: #29303bc2;
+  }
+  li {
+    list-style: none;
+  }
+  @media screen and (max-width: 1024px) {
+    .bar {
+      height: 3px;
+      width: 28px;
+      margin: 5px;
+      background-color: #1f1f1f;
+    }
+    .bars {
+      margin: auto 0px;
+      cursor: pointer;
+    }
+    .Navigation {
+      display: block;
+    }
+    .Logo_Bars {
+      height: 100%;
+      display: flex;
+      justify-content: space-between;
+      margin: auto 25px;
+    }
+    .Nav_Links {
+      display: block;
+      width: 100%;
+      transition:.3s;
+      background-color: #29303b;
+      height:0px;
+      overflow: hidden;
+    }
+    .Nav_Links li {
+      padding: 20px 0px;
+      text-align: center;
+    }
+    .links_txt {
+      color: #fff;
+    }
+    .links_txt:hover {
+      color: #d2d2d2;
+    }
+    .Home_Links,
+    .Rooms_Links,  
+    .Home_Links:hover,
+    .Rooms_Links:hover {
+      padding-bottom: 0px;
+    }
+    .Client_links {
+      padding: 7px 15px;
+      background-color: transparent;
+      border: 2px solid yellowgreen;
+    }
+    .Client_links:hover {
+      border: 2px solid #ffff;
+    }
+    .NavLinks{
+      padding: 70px 0px;
+      height:auto;
+      transition:.3s;
+    }
+  }
+  

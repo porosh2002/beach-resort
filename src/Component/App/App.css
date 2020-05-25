@@ -1,0 +1,129 @@
+.featured_section {
+  background-color: #74b9ff;
+  padding: 15px 0px 60px 0px;
+}
+.services_section {
+  margin-bottom: 40px;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #4444;
+}
+::-webkit-scrollbar-thumb {
+  background: #444;
+  border-radius: 20px;
+}
+.single_room {
+  background-color: #2b3a42;
+  min-height: 100vh;
+  color: #dfdfdf;
+  letter-spacing: 1px;
+}
+.sr_title {
+  font-size: 40px;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  padding: 50px 0px;
+}
+.rooms_img {
+  height: 200px;
+  width: 300px;
+  margin: 20px;
+  display: inline-block;
+  border-radius: 5px;
+}
+.sr_des {
+  font-size: 17px;
+  padding: 30px;
+}
+.sr_size,
+.sr_breakfast,
+.sr_capacity,
+.sr_pets,
+.sr_ext,
+.sr_price {
+  font-size: 18px;
+  padding: 0px 0px 20px 30px;
+  text-align: left;
+}
+.title_sr {
+  color: #fdffab;
+  letter-spacing: 2px;
+}
+.btn_div {
+  padding: 70px 0px 20px 30px;
+  text-align: left;
+}
+.rtrn_bck {
+  color: #fff;
+  font-size: 15px;
+  text-decoration: none;
+  margin: 10px;
+}
+.rtrn_bck:hover {
+  color: #fdffab;
+}
+/* _______ */
+.search_field {
+  background-color: #2b3a42;
+  padding-bottom: 100px;
+  margin-bottom: 100px;
+}
+#select_rooms {
+  height: 30px;
+  width: 150px;
+  font-size: 16px;
+  background: #74b9ff;
+  border: none;
+  border-radius: 2px;
+}
+#select_capacity {
+  height: 30px;
+  width: 100px;
+  font-size: 16px;
+  background: #74b9ff;
+  border: none;
+  border-radius: 2px;
+}
+#select_rooms option,
+#select_capacity option {
+  background: #444;
+  color: #fff;
+}
+.search_iteams {
+  display: inline-block;
+  margin: 10px 20px;
+}
+.title_src {
+  color: #fff;
+  font-size: 30px;
+  padding: 50px 0px;
+}
+.s_i_title {
+  font-size: 17px;
+  color: #dfdfdf;
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+}
+.nrf{
+  margin-bottom:50px;
+  font-size:30px;
+  letter-spacing: 2px;
+  color: #444;
+}
+.chk_inpt{
+  height:15px;
+  width:30px;
+  border-radius:5px;
+}
+.login_reg{
+  background-color:#fff;
+  font-size:22px;
+  color: #444;
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+}

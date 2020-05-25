@@ -1,0 +1,73 @@
+.hero_bg {
+  height: 600px;
+  background: url("../Image/hotel.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.Rooms_bg {
+  height: 500px;
+  background: url("../Image/room.jpg");
+  background-size: cover;
+  background-position: center;
+}
+@media screen and (max-width: 720px) {
+  .hero_bg,
+  .Rooms_bg {
+    height: 500px;
+  }
+  .txt_wth_undr_img {
+    width: 300px;
+  }
+  .ttle {
+    font-size: 30px;
+    color: #fff;
+    letter-spacing: 2px;
+  }
+  .des {
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.829);
+    letter-spacing: 1px;
+    margin: 20px 0px 35px 0px;
+  }
+}
+@media screen and (min-width: 721px) {
+  .ttle {
+    font-size: 50px;
+    color: #fff;
+    letter-spacing: 3px;
+  }
+  .des {
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.829);
+    letter-spacing: 1px;
+    margin: 20px 0px 35px 0px;
+  }
+}
+.undr_hero_bg {
+  background: linear-gradient(100deg, #2193b079, #6dd5ed6b);
+  height: 100%;
+}
+.txt_wth_undr_img {
+  height: 350px;
+  max-width: 700px;
+  background: url("../Image/bg_pattern.png");
+  background-size: cover;
+  border-radius: 4px;
+  z-index:0;
+}
+
+.hero_offer {
+  color: yellow;
+  margin-left: 4px;
+  font-size: 25px;
+}
+.hero_cntn,
+.txt_wth_undr_img {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.Our_Rooms_btn {
+  margin-top: 30px;
+}

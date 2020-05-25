@@ -1,0 +1,14 @@
+.Our_Rooms_btn{
+    text-decoration: none;
+    color:#29303b;
+    letter-spacing:1px;
+    font-size:17px;
+    text-transform: uppercase;
+    padding:10px 15px;
+    border-radius:2px;
+    background-color:#74b9ff;
+  }
+.Our_Rooms_btn:hover{
+    background-color:#74baffbd;
+  }
+  

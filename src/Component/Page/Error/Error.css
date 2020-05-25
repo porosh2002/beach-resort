@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+.notFound_illustrator{
+    margin:100px 0px 50px 0px;
+}
+.error_txt{
+    letter-spacing:1px;
+    font-size:28px;
+    color:#29303b;
+    margin-bottom:100px;
+}
