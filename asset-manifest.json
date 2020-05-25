@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/beach-resort/static/css/main.13630a62.chunk.css",
+    "main.js": "/beach-resort/static/js/main.425ca651.chunk.js",
+    "main.js.map": "/beach-resort/static/js/main.425ca651.chunk.js.map",
+    "runtime-main.js": "/beach-resort/static/js/runtime-main.a5a00b07.js",
+    "runtime-main.js.map": "/beach-resort/static/js/runtime-main.a5a00b07.js.map",
+    "static/js/2.8a480c5f.chunk.js": "/beach-resort/static/js/2.8a480c5f.chunk.js",
+    "static/js/2.8a480c5f.chunk.js.map": "/beach-resort/static/js/2.8a480c5f.chunk.js.map",
+    "index.html": "/beach-resort/index.html",
+    "precache-manifest.7dd57dd1498b7a19da71d3e779ef37af.js": "/beach-resort/precache-manifest.7dd57dd1498b7a19da71d3e779ef37af.js",
+    "service-worker.js": "/beach-resort/service-worker.js",
+    "static/css/main.13630a62.chunk.css.map": "/beach-resort/static/css/main.13630a62.chunk.css.map",
+    "static/js/2.8a480c5f.chunk.js.LICENSE.txt": "/beach-resort/static/js/2.8a480c5f.chunk.js.LICENSE.txt",
+    "static/media/Hero.css": "/beach-resort/static/media/room.06d75777.jpg",
+    "static/media/details-1.jpeg": "/beach-resort/static/media/details-1.cb86bfd6.jpeg",
+    "static/media/details-2.jpeg": "/beach-resort/static/media/details-2.92d9572b.jpeg",
+    "static/media/details-3.jpeg": "/beach-resort/static/media/details-3.c1e029e2.jpeg",
+    "static/media/details-4.jpeg": "/beach-resort/static/media/details-4.8c8c053e.jpeg",
+    "static/media/room-1.jpeg": "/beach-resort/static/media/room-1.8aa89655.jpeg",
+    "static/media/room-10.jpeg": "/beach-resort/static/media/room-10.23960e49.jpeg",
+    "static/media/room-11.jpeg": "/beach-resort/static/media/room-11.01b7825e.jpeg",
+    "static/media/room-12.jpeg": "/beach-resort/static/media/room-12.2f134677.jpeg",
+    "static/media/room-2.jpeg": "/beach-resort/static/media/room-2.f1b6de76.jpeg",
+    "static/media/room-3.jpeg": "/beach-resort/static/media/room-3.b273b756.jpeg",
+    "static/media/room-4.jpeg": "/beach-resort/static/media/room-4.bfbb444d.jpeg",
+    "static/media/room-5.jpeg": "/beach-resort/static/media/room-5.f3b5b898.jpeg",
+    "static/media/room-6.jpeg": "/beach-resort/static/media/room-6.e8ffe778.jpeg",
+    "static/media/room-7.jpeg": "/beach-resort/static/media/room-7.a78f8ba2.jpeg",
+    "static/media/room-8.jpeg": "/beach-resort/static/media/room-8.d1485c82.jpeg",
+    "static/media/room-9.jpeg": "/beach-resort/static/media/room-9.f0f30625.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5a00b07.js",
+    "static/js/2.8a480c5f.chunk.js",
+    "static/css/main.13630a62.chunk.css",
+    "static/js/main.425ca651.chunk.js"
+  ]
+}
